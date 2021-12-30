@@ -1,5 +1,6 @@
 html {
-    background-color:cadetblue;
+    background-color:blanchedalmond;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -8,7 +9,7 @@ body {
 }
 
 .Intro {
-    font-size: 15px;
+    font-size: 30px;
 }
 
 .NavBar {
@@ -33,6 +34,7 @@ body {
 
 h1 {
     font-size: 60px;
-    font-family:sans-serif;
     text-align: center;
+    margin: 0;
+    padding: 20px 0;
 }
