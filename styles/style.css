@@ -1,14 +1,21 @@
 html {
-    background-color:navajowhite;
+    background-color:cadetblue;
 }
 
 body {
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
 }
 
+.NavBar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    float: right;
+}
+
 h1 {
-    font-size: x-large;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
     text-align: center;
 }
