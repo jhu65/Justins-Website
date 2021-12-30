@@ -12,17 +12,23 @@ body {
 }
 
 .NavBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     background-color: #333;
     overflow: hidden;
 }
 
-.NavBar a {
+.NavElement {
     float: left;
-    color: #f2f2f2;
+}
+
+.NavElement a {
+    display: block;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
 }
 
 h1 {
